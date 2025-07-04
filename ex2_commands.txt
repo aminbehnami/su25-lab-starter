@@ -1,0 +1,4 @@
+break 7
+run
+print x
+quit
